@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.5.28)  28 MAY 2018 13:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.5.28)  30 MAY 2018 15:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1970,31 +1970,345 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 30.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+<Explicit_X0_0_0_V0_1_0.png, id=4, 412.6617pt x 342.5598pt>
+File: Explicit_X0_0_0_V0_1_0.png Graphic file (type png)
 
-LaTeX Warning: File `Explicit_X0_0_0_V0_1_0.png' not found on input line 33.
+<use Explicit_X0_0_0_V0_1_0.png>
+Package pdftex.def Info: Explicit_X0_0_0_V0_1_0.png used on input line 33.
+(pdftex.def)             Requested size: 216.81pt x 179.97725pt.
 
+<Explicit_X0_1_0_V0_0_0.png, id=6, 412.6617pt x 342.5598pt>
+File: Explicit_X0_1_0_V0_0_0.png Graphic file (type png)
 
-! Package pdftex.def Error: File `Explicit_X0_0_0_V0_1_0.png' not found.
+<use Explicit_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: Explicit_X0_1_0_V0_0_0.png used on input line 34.
+(pdftex.def)             Requested size: 216.81pt x 179.97725pt.
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 ...[width = 3in]{Explicit_X0_0_0_V0_1_0.png}}
-                                                  
-? x
- 
+<Explicit_X0_1_0_V0_1_0.png, id=7, 406.1574pt x 342.5598pt>
+File: Explicit_X0_1_0_V0_1_0.png Graphic file (type png)
+
+<use Explicit_X0_1_0_V0_1_0.png>
+Package pdftex.def Info: Explicit_X0_1_0_V0_1_0.png used on input line 35.
+(pdftex.def)             Requested size: 216.81pt x 182.85735pt.
+
+<Explicit_X0_2_0_V0_1_0.png, id=8, 396.7623pt x 342.5598pt>
+File: Explicit_X0_2_0_V0_1_0.png Graphic file (type png)
+
+<use Explicit_X0_2_0_V0_1_0.png>
+Package pdftex.def Info: Explicit_X0_2_0_V0_1_0.png used on input line 36.
+(pdftex.def)             Requested size: 216.81pt x 187.19579pt.
+
+<Implicit_X0_0_0_V0_1_0.png, id=9, 412.6617pt x 342.5598pt>
+File: Implicit_X0_0_0_V0_1_0.png Graphic file (type png)
+
+<use Implicit_X0_0_0_V0_1_0.png>
+Package pdftex.def Info: Implicit_X0_0_0_V0_1_0.png used on input line 41.
+(pdftex.def)             Requested size: 216.81pt x 179.97725pt.
+
+<Implicit_X0_1_0_V0_0_0.png, id=10, 412.6617pt x 342.5598pt>
+File: Implicit_X0_1_0_V0_0_0.png Graphic file (type png)
+
+<use Implicit_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: Implicit_X0_1_0_V0_0_0.png used on input line 42.
+(pdftex.def)             Requested size: 216.81pt x 179.97725pt.
+
+<Implicit_X0_1_0_V0_1_0.png, id=11, 406.1574pt x 342.5598pt>
+File: Implicit_X0_1_0_V0_1_0.png Graphic file (type png)
+
+<use Implicit_X0_1_0_V0_1_0.png>
+Package pdftex.def Info: Implicit_X0_1_0_V0_1_0.png used on input line 43.
+(pdftex.def)             Requested size: 216.81pt x 182.85735pt.
+
+<Implicit_X0_2_0_V0_1_0.png, id=12, 396.7623pt x 342.5598pt>
+File: Implicit_X0_2_0_V0_1_0.png Graphic file (type png)
+
+<use Implicit_X0_2_0_V0_1_0.png>
+Package pdftex.def Info: Implicit_X0_2_0_V0_1_0.png used on input line 44.
+(pdftex.def)             Requested size: 216.81pt x 187.19579pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Explicit_X0_0_0_V0_1_0.p
+ng> <./Explicit_X0_1_0_V0_0_0.png> <./Explicit_X0_1_0_V0_1_0.png> <./Explicit_X
+0_2_0_V0_1_0.png>]
+<Explicit_Errors_X0_0_0_V0_1_0.png, id=29, 443.0151pt x 342.5598pt>
+File: Explicit_Errors_X0_0_0_V0_1_0.png Graphic file (type png)
+
+<use Explicit_Errors_X0_0_0_V0_1_0.png>
+Package pdftex.def Info: Explicit_Errors_X0_0_0_V0_1_0.png used on input line 5
+1.
+(pdftex.def)             Requested size: 216.81pt x 167.6519pt.
+
+<Explicit_Errors_X0_1_0_V0_0_0.png, id=30, 443.0151pt x 342.5598pt>
+File: Explicit_Errors_X0_1_0_V0_0_0.png Graphic file (type png)
+
+<use Explicit_Errors_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: Explicit_Errors_X0_1_0_V0_0_0.png used on input line 5
+2.
+(pdftex.def)             Requested size: 216.81pt x 167.6519pt.
+
+<Explicit_Errors_X0_1_0_V0_1_0.png, id=31, 436.5108pt x 342.5598pt>
+File: Explicit_Errors_X0_1_0_V0_1_0.png Graphic file (type png)
+
+<use Explicit_Errors_X0_1_0_V0_1_0.png>
+Package pdftex.def Info: Explicit_Errors_X0_1_0_V0_1_0.png used on input line 5
+3.
+(pdftex.def)             Requested size: 216.81pt x 170.1452pt.
+
+<Explicit_Errors_X0_2_0_V0_1_0.png, id=32, 436.5108pt x 342.5598pt>
+File: Explicit_Errors_X0_2_0_V0_1_0.png Graphic file (type png)
+
+<use Explicit_Errors_X0_2_0_V0_1_0.png>
+Package pdftex.def Info: Explicit_Errors_X0_2_0_V0_1_0.png used on input line 5
+4.
+(pdftex.def)             Requested size: 216.81pt x 170.1452pt.
+ [2 <./Implicit_X0_0_0_V0_1_0.png> <./Implicit_X0_1_0_V0_0_0.png> <./Implicit_X
+0_1_0_V0_1_0.png> <./Implicit_X0_2_0_V0_1_0.png>] <Implicit_Errors_X0_0_0_V0_1_
+0.png, id=40, 440.847pt x 342.5598pt>
+File: Implicit_Errors_X0_0_0_V0_1_0.png Graphic file (type png)
+
+<use Implicit_Errors_X0_0_0_V0_1_0.png>
+Package pdftex.def Info: Implicit_Errors_X0_0_0_V0_1_0.png used on input line 5
+9.
+(pdftex.def)             Requested size: 216.81pt x 168.47255pt.
+
+<Implicit_Errors_X0_1_0_V0_0_0.png, id=41, 440.847pt x 342.5598pt>
+File: Implicit_Errors_X0_1_0_V0_0_0.png Graphic file (type png)
+
+<use Implicit_Errors_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: Implicit_Errors_X0_1_0_V0_0_0.png used on input line 6
+0.
+(pdftex.def)             Requested size: 216.81pt x 168.47255pt.
+
+<Implicit_Errors_X0_1_0_V0_1_0.png, id=42, 434.3427pt x 342.5598pt>
+File: Implicit_Errors_X0_1_0_V0_1_0.png Graphic file (type png)
+
+<use Implicit_Errors_X0_1_0_V0_1_0.png>
+Package pdftex.def Info: Implicit_Errors_X0_1_0_V0_1_0.png used on input line 6
+1.
+(pdftex.def)             Requested size: 216.81pt x 170.99721pt.
+
+<Implicit_Errors_X0_2_0_V0_1_0.png, id=43, 434.3427pt x 342.5598pt>
+File: Implicit_Errors_X0_2_0_V0_1_0.png Graphic file (type png)
+
+<use Implicit_Errors_X0_2_0_V0_1_0.png>
+Package pdftex.def Info: Implicit_Errors_X0_2_0_V0_1_0.png used on input line 6
+2.
+(pdftex.def)             Requested size: 216.81pt x 170.99721pt.
+ [3 <./Explicit_Errors_X0_0_0_V0_1_0.png> <./Explicit_Errors_X0_1_0_V0_0_0.png>
+ <./Explicit_Errors_X0_1_0_V0_1_0.png> <./Explicit_Errors_X0_2_0_V0_1_0.png>]
+<Truncation_X0_0_0_V0_1_0.png, id=51, 432.1746pt x 342.5598pt>
+File: Truncation_X0_0_0_V0_1_0.png Graphic file (type png)
+
+<use Truncation_X0_0_0_V0_1_0.png>
+Package pdftex.def Info: Truncation_X0_0_0_V0_1_0.png used on input line 68.
+(pdftex.def)             Requested size: 216.81pt x 171.84921pt.
+
+<Truncation_X0_1_0_V0_0_0.png, id=52, 432.1746pt x 342.5598pt>
+File: Truncation_X0_1_0_V0_0_0.png Graphic file (type png)
+
+<use Truncation_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: Truncation_X0_1_0_V0_0_0.png used on input line 69.
+(pdftex.def)             Requested size: 216.81pt x 171.84921pt.
+
+<Truncation_X0_1_0_V0_1_0.png, id=53, 438.6789pt x 342.5598pt>
+File: Truncation_X0_1_0_V0_1_0.png Graphic file (type png)
+
+<use Truncation_X0_1_0_V0_1_0.png>
+Package pdftex.def Info: Truncation_X0_1_0_V0_1_0.png used on input line 70.
+(pdftex.def)             Requested size: 216.81pt x 169.30365pt.
+
+<Truncation_X0_2_0_V0_1_0.png, id=54, 432.1746pt x 342.5598pt>
+File: Truncation_X0_2_0_V0_1_0.png Graphic file (type png)
+
+<use Truncation_X0_2_0_V0_1_0.png>
+Package pdftex.def Info: Truncation_X0_2_0_V0_1_0.png used on input line 71.
+(pdftex.def)             Requested size: 216.81pt x 171.84921pt.
+ [4 <./Implicit_Errors_X0_0_0_V0_1_0.png> <./Implicit_Errors_X0_1_0_V0_0_0.png>
+ <./Implicit_Errors_X0_1_0_V0_1_0.png> <./Implicit_Errors_X0_2_0_V0_1_0.png>]
+<Explicit_Energy_X0_0_0_V0_1_0.png, id=62, 462.528pt x 342.5598pt>
+File: Explicit_Energy_X0_0_0_V0_1_0.png Graphic file (type png)
+
+<use Explicit_Energy_X0_0_0_V0_1_0.png>
+Package pdftex.def Info: Explicit_Energy_X0_0_0_V0_1_0.png used on input line 7
+7.
+(pdftex.def)             Requested size: 216.81pt x 160.5745pt.
+
+<Explicit_Energy_X0_1_0_V0_0_0.png, id=63, 462.528pt x 342.5598pt>
+File: Explicit_Energy_X0_1_0_V0_0_0.png Graphic file (type png)
+
+<use Explicit_Energy_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: Explicit_Energy_X0_1_0_V0_0_0.png used on input line 7
+8.
+(pdftex.def)             Requested size: 216.81pt x 160.5745pt.
+
+<Explicit_Energy_X0_1_0_V0_1_0.png, id=64, 456.0237pt x 342.5598pt>
+File: Explicit_Energy_X0_1_0_V0_1_0.png Graphic file (type png)
+
+<use Explicit_Energy_X0_1_0_V0_1_0.png>
+Package pdftex.def Info: Explicit_Energy_X0_1_0_V0_1_0.png used on input line 7
+9.
+(pdftex.def)             Requested size: 216.81pt x 162.86394pt.
+
+<Explicit_Energy_X0_2_0_V0_1_0.png, id=65, 456.0237pt x 342.5598pt>
+File: Explicit_Energy_X0_2_0_V0_1_0.png Graphic file (type png)
+
+<use Explicit_Energy_X0_2_0_V0_1_0.png>
+Package pdftex.def Info: Explicit_Energy_X0_2_0_V0_1_0.png used on input line 8
+0.
+(pdftex.def)             Requested size: 216.81pt x 162.86394pt.
+ [5 <./Truncation_X0_0_0_V0_1_0.png> <./Truncation_X0_1_0_V0_0_0.png> <./Trunca
+tion_X0_1_0_V0_1_0.png> <./Truncation_X0_2_0_V0_1_0.png>]
+<Implicit_Energy_X0_0_0_V0_1_0.png, id=73, 462.528pt x 342.5598pt>
+File: Implicit_Energy_X0_0_0_V0_1_0.png Graphic file (type png)
+
+<use Implicit_Energy_X0_0_0_V0_1_0.png>
+Package pdftex.def Info: Implicit_Energy_X0_0_0_V0_1_0.png used on input line 8
+5.
+(pdftex.def)             Requested size: 216.81pt x 160.5745pt.
+
+<Implicit_Energy_X0_1_0_V0_0_0.png, id=74, 462.528pt x 342.5598pt>
+File: Implicit_Energy_X0_1_0_V0_0_0.png Graphic file (type png)
+
+<use Implicit_Energy_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: Implicit_Energy_X0_1_0_V0_0_0.png used on input line 8
+6.
+(pdftex.def)             Requested size: 216.81pt x 160.5745pt.
+
+<Implicit_Energy_X0_1_0_V0_1_0.png, id=75, 456.7464pt x 342.5598pt>
+File: Implicit_Energy_X0_1_0_V0_1_0.png Graphic file (type png)
+
+<use Implicit_Energy_X0_1_0_V0_1_0.png>
+Package pdftex.def Info: Implicit_Energy_X0_1_0_V0_1_0.png used on input line 8
+7.
+(pdftex.def)             Requested size: 216.81pt x 162.60782pt.
+
+<Implicit_Energy_X0_2_0_V0_1_0.png, id=76, 456.0237pt x 342.5598pt>
+File: Implicit_Energy_X0_2_0_V0_1_0.png Graphic file (type png)
+
+<use Implicit_Energy_X0_2_0_V0_1_0.png>
+Package pdftex.def Info: Implicit_Energy_X0_2_0_V0_1_0.png used on input line 8
+8.
+(pdftex.def)             Requested size: 216.81pt x 162.86394pt.
+ [6 <./Explicit_Energy_X0_0_0_V0_1_0.png> <./Explicit_Energy_X0_1_0_V0_0_0.png>
+ <./Explicit_Energy_X0_1_0_V0_1_0.png> <./Explicit_Energy_X0_2_0_V0_1_0.png>]
+<long_Explicit_X0_2_0_V0_1_0.png, id=84, 396.7623pt x 342.5598pt>
+File: long_Explicit_X0_2_0_V0_1_0.png Graphic file (type png)
+
+<use long_Explicit_X0_2_0_V0_1_0.png>
+Package pdftex.def Info: long_Explicit_X0_2_0_V0_1_0.png used on input line 95.
+
+(pdftex.def)             Requested size: 216.81pt x 187.19579pt.
+
+<long_Implicit_X0_2_0_V0_1_0.png, id=85, 396.7623pt x 342.5598pt>
+File: long_Implicit_X0_2_0_V0_1_0.png Graphic file (type png)
+
+<use long_Implicit_X0_2_0_V0_1_0.png>
+Package pdftex.def Info: long_Implicit_X0_2_0_V0_1_0.png used on input line 96.
+
+(pdftex.def)             Requested size: 216.81pt x 187.19579pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+[7 <./Implicit_Energy_X0_0_0_V0_1_0.png> <./Implicit_Energy_X0_1_0_V0_0_0.png> 
+<./Implicit_Energy_X0_1_0_V0_1_0.png> <./Implicit_Energy_X0_2_0_V0_1_0.png>]
+<Explicit_Phase_X0_1_0_V0_0_0.png, id=94, 434.3427pt x 342.5598pt>
+File: Explicit_Phase_X0_1_0_V0_0_0.png Graphic file (type png)
+
+<use Explicit_Phase_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: Explicit_Phase_X0_1_0_V0_0_0.png used on input line 10
+3.
+(pdftex.def)             Requested size: 216.81pt x 170.99721pt.
+
+<Implicit_Phase_X0_1_0_V0_0_0.png, id=95, 434.3427pt x 342.5598pt>
+File: Implicit_Phase_X0_1_0_V0_0_0.png Graphic file (type png)
+
+<use Implicit_Phase_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: Implicit_Phase_X0_1_0_V0_0_0.png used on input line 10
+4.
+(pdftex.def)             Requested size: 216.81pt x 170.99721pt.
+
+<long_Explicit_Phase_X0_1_0_V0_0_0.png, id=96, 427.8384pt x 342.5598pt>
+File: long_Explicit_Phase_X0_1_0_V0_0_0.png Graphic file (type png)
+
+<use long_Explicit_Phase_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: long_Explicit_Phase_X0_1_0_V0_0_0.png used on input li
+ne 105.
+(pdftex.def)             Requested size: 216.81pt x 173.59505pt.
+
+<long_Implicit_Phase_X0_1_0_V0_0_0.png, id=97, 434.3427pt x 342.5598pt>
+File: long_Implicit_Phase_X0_1_0_V0_0_0.png Graphic file (type png)
+
+<use long_Implicit_Phase_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: long_Implicit_Phase_X0_1_0_V0_0_0.png used on input li
+ne 106.
+(pdftex.def)             Requested size: 216.81pt x 170.99721pt.
+ [8 <./long_Explicit_X0_2_0_V0_1_0.png> <./long_Implicit_X0_2_0_V0_1_0.png>]
+<Symplectic_Phase_X0_1_0_V0_0_0.png, id=103, 434.3427pt x 342.5598pt>
+File: Symplectic_Phase_X0_1_0_V0_0_0.png Graphic file (type png)
+
+<use Symplectic_Phase_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: Symplectic_Phase_X0_1_0_V0_0_0.png used on input line 
+112.
+(pdftex.def)             Requested size: 216.81pt x 170.99721pt.
+
+<long_Symplectic_Phase_X0_1_0_V0_0_0.png, id=104, 434.3427pt x 342.5598pt>
+File: long_Symplectic_Phase_X0_1_0_V0_0_0.png Graphic file (type png)
+
+<use long_Symplectic_Phase_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: long_Symplectic_Phase_X0_1_0_V0_0_0.png used on input 
+line 113.
+(pdftex.def)             Requested size: 216.81293pt x 173.44868pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+
+ []
+
+[9 <./Explicit_Phase_X0_1_0_V0_0_0.png> <./Implicit_Phase_X0_1_0_V0_0_0.png> <.
+/long_Explicit_Phase_X0_1_0_V0_0_0.png> <./long_Implicit_Phase_X0_1_0_V0_0_0.pn
+g>] <Symplectic_Energy_X0_1_0_V0_0_0.png, id=112, 465.4188pt x 342.5598pt>
+File: Symplectic_Energy_X0_1_0_V0_0_0.png Graphic file (type png)
+
+<use Symplectic_Energy_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: Symplectic_Energy_X0_1_0_V0_0_0.png used on input line
+ 118.
+(pdftex.def)             Requested size: 216.81pt x 159.58136pt.
+
+<long_Symplectic_Energy_X0_1_0_V0_0_0.png, id=113, 465.4188pt x 342.5598pt>
+File: long_Symplectic_Energy_X0_1_0_V0_0_0.png Graphic file (type png)
+
+<use long_Symplectic_Energy_X0_1_0_V0_0_0.png>
+Package pdftex.def Info: long_Symplectic_Energy_X0_1_0_V0_0_0.png used on input
+ line 119.
+(pdftex.def)             Requested size: 216.81519pt x 158.99593pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+
+ []
+
+[10 <./Symplectic_Phase_X0_1_0_V0_0_0.png> <./long_Symplectic_Phase_X0_1_0_V0_0
+_0.png> <./Symplectic_Energy_X0_1_0_V0_0_0.png> <./long_Symplectic_Energy_X0_1_
+0_V0_0_0.png>] (./HW3.aux) ) 
 Here is how much of TeX's memory you used:
- 22712 strings out of 493029
- 437038 string characters out of 6136234
- 450964 words of memory out of 5000000
- 25887 multiletter control sequences out of 15000+600000
- 9498 words of font info for 36 fonts, out of 8000000 for 9000
+ 22922 strings out of 493029
+ 443757 string characters out of 6136234
+ 454964 words of memory out of 5000000
+ 26051 multiletter control sequences out of 15000+600000
+ 11688 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,3n,62p,10403b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
-No pages of output.
+ 55i,11n,87p,10403b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on HW3.pdf (10 pages, 2172569 bytes).
 PDF statistics:
- 3 PDF objects out of 1000 (max. 8388607)
+ 145 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 203 words of extra memory for PDF output out of 10000 (max. 10000000)
 

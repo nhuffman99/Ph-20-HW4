@@ -118,9 +118,11 @@ if length == 1 or length == 3 or length == 6 or sys.argv[1] =='long' or sys.argv
 	plt.title('x and v vs time  (Explicit Euler)', fontsize=22)
 	plt.legend(['x','v'], loc='best')
 	if sys.argv[1] == 'long':
-		plt.savefig('long_Explicit_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename ='long_Explicit_X0_'+repr(Xi)+'_V0_'+repr(Vi)
 	else:
-		plt.savefig('Explicit_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'Explicit_X0_'+repr(Xi)+'_V0_'+repr(Vi)
+	filename = filename.replace('.','_')+'.png'
+	plt.savefig(filename,bbox_inches='tight')
 	#plt.show()
 
 # Question 2
@@ -133,9 +135,11 @@ if length == 1 or length == 3 or length == 6 or sys.argv[1] =='long' or sys.argv
 	plt.title('x and v errors vs time (Explicit Euler)', fontsize=22)
 	plt.legend(['x','v'], loc='best')
 	if sys.argv[1] == 'long':
-		plt.savefig('long_Explicit_Errors_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'long_Explicit_Errors_X0_'+repr(Xi)+'_V0_'+repr(Vi)
 	else:
-		plt.savefig('Explicit_Errors_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'Explicit_Errors_X0_'+repr(Xi)+'_V0_'+repr(Vi)
+	filename = filename.replace('.','_')+'.png'
+	plt.savefig(filename,bbox_inches='tight')
 	#plt.show()
 
 # Question 3
@@ -154,9 +158,11 @@ if length == 1 or length == 3 or length == 6 or sys.argv[1] =='long' or sys.argv
 	plt.ylabel('Truncation Error', fontsize=18)
 	plt.title('Truncation Error vs dt', fontsize=22)
 	if sys.argv[1] == 'long':
-		plt.savefig('long_Truncation_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'long_Truncation_X0_'+repr(Xi)+'_V0_'+repr(Vi)
 	else:
-		plt.savefig('Truncation_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'Truncation_X0_'+repr(Xi)+'_V0_'+repr(Vi)
+	filename = filename.replace('.','_')+'.png'
+	plt.savefig(filename,bbox_inches='tight')
 	#plt.show()
 
 # Question 4
@@ -169,9 +175,11 @@ if length == 1 or length == 3 or length == 6 or sys.argv[1] =='long' or sys.argv
 	plt.ylabel('E', fontsize=18)
 	plt.title('System energy vs time (Explicit Euler)', fontsize=22)
 	if sys.argv[1] == 'long':
-		plt.savefig('long_Explicit_Energy_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'long_Explicit_Energy_X0_'+repr(Xi)+'_V0_'+repr(Vi)
 	else:
-		plt.savefig('Explicit_Energy_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'Explicit_Energy_X0_'+repr(Xi)+'_V0_'+repr(Vi)
+	filename = filename.replace('.','_')+'.png'
+	plt.savefig(filename,bbox_inches='tight')
 	#plt.show()
 
 # Question 5
@@ -186,9 +194,11 @@ if length == 1 or length == 3 or length == 6 or sys.argv[1] =='long' or sys.argv
 	plt.title('x and v vs time (Implict Euler)', fontsize=22)
 	plt.legend(['x','v'], loc='best')
 	if sys.argv[1] == 'long':
-		plt.savefig('long_Implicit_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'long_Implicit_X0_'+repr(Xi)+'_V0_'+repr(Vi)
 	else:
-		plt.savefig('Implicit_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'Implicit_X0_'+repr(Xi)+'_V0_'+repr(Vi)
+	filename = filename.replace('.','_')+'.png'
+	plt.savefig(filename,bbox_inches='tight')
 	#plt.show()
 
 if length == 1 or length == 3 or length == 6 or sys.argv[1] =='long' or sys.argv[1] == 'x_v_err_Imp': 
@@ -200,9 +210,11 @@ if length == 1 or length == 3 or length == 6 or sys.argv[1] =='long' or sys.argv
 	plt.title('x and v errors vs time (Implict Euler)', fontsize=22)
 	plt.legend(['x','v'], loc='best')
 	if sys.argv[1] == 'long':
-		plt.savefig('long_Implicit_Errors_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'long_Implicit_Errors_X0_'+repr(Xi)+'_V0_'+repr(Vi)
 	else:
-		plt.savefig('Implicit_Errors_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'Implicit_Errors_X0_'+repr(Xi)+'_V0_'+repr(Vi)
+	filename = filename.replace('.','_')+'.png'
+	plt.savefig(filename,bbox_inches='tight')
 	#plt.show()
 
 EI = xI**(2)+vI**(2)
@@ -214,9 +226,11 @@ if length == 1 or length == 3 or length == 6 or sys.argv[1] =='long' or sys.argv
 	plt.ylabel('E', fontsize=18)
 	plt.title('System energy vs time (Implicit Euler)', fontsize=22)
 	if sys.argv[1] == 'long':
-		plt.savefig('long_Implicit_Energy_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'long_Implicit_Energy_X0_'+repr(Xi)+'_V0_'+repr(Vi)
 	else:
-		plt.savefig('Implicit_Energy_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'Implicit_Energy_X0_'+repr(Xi)+'_V0_'+repr(Vi)
+	filename = filename.replace('.','_')+'.png'
+	plt.savefig(filename,bbox_inches='tight')
 	#plt.show()
 
 # Part 2
@@ -230,9 +244,11 @@ if length == 1 or length == 3 or length == 6 or sys.argv[1] =='long' or sys.argv
 	plt.title('Phase Space  (Explicit Euler)', fontsize=22)
 	plt.legend(['Numeric','Analytic'], loc='best')
 	if sys.argv[1] == 'long':
-		plt.savefig('long_Explicit_Phase_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'long_Explicit_Phase_X0_'+repr(Xi)+'_V0_'+repr(Vi)
 	else:
-		plt.savefig('Explicit_Phase_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'Explicit_Phase_X0_'+repr(Xi)+'_V0_'+repr(Vi)
+	filename = filename.replace('.','_')+'.png'
+	plt.savefig(filename,bbox_inches='tight')
 	#plt.show()
 
 if length == 1 or length == 3 or length == 6 or sys.argv[1] =='long' or sys.argv[1] == 'phase_Imp': 
@@ -244,9 +260,11 @@ if length == 1 or length == 3 or length == 6 or sys.argv[1] =='long' or sys.argv
 	plt.title('Phase Space  (Implicit Euler)', fontsize=22)
 	plt.legend(['Numeric','Analytic'], loc='best')
 	if sys.argv[1] == 'long':
-		plt.savefig('long_Implicit_Phase_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'long_Implicit_Phase_X0_'+repr(Xi)+'_V0_'+repr(Vi)
 	else:
-		plt.savefig('Implicit_Phase_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'Implicit_Phase_X0_'+repr(Xi)+'_V0_'+repr(Vi)
+	filename = filename.replace('.','_')+'.png'
+	plt.savefig(filename,bbox_inches='tight')
 	#plt.show()
 
 # b
@@ -261,9 +279,11 @@ if length == 1 or length == 3 or length == 6 or sys.argv[1] =='long' or sys.argv
 	plt.title('Phase Space  (Symplectic)', fontsize=22)
 	plt.legend(['Numeric','Analytic'], loc='best')
 	if sys.argv[1] == 'long':
-		plt.savefig('long_Symplectic_Phase_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'long_Symplectic_Phase_X0_'+repr(Xi)+'_V0_'+repr(Vi)
 	else:
-		plt.savefig('Symplectic_Phase_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'Symplectic_Phase_X0_'+repr(Xi)+'_V0_'+repr(Vi)
+	filename = filename.replace('.','_')+'.png'
+	plt.savefig(filename,bbox_inches='tight')
 	#plt.show()
 
 Es = xs**(2)+vs**(2)
@@ -275,9 +295,11 @@ if length == 1 or length == 3 or length == 6 or sys.argv[1] =='long' or sys.argv
 	plt.ylabel('E', fontsize=18)
 	plt.title('System energy vs time (Symplectic)', fontsize=22)
 	if sys.argv[1] == 'long':
-		plt.savefig('long_Symplectic_Energy_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'long_Symplectic_Energy_X0_'+repr(Xi)+'_V0_'+repr(Vi)
 	else:
-		plt.savefig('Symplectic_Energy_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'Symplectic_Energy_X0_'+repr(Xi)+'_V0_'+repr(Vi)
+	filename = filename.replace('.','_')+'.png'
+	plt.savefig(filename,bbox_inches='tight')
 	#plt.show()
 
 k = 10
@@ -292,8 +314,10 @@ if length == 1 or length == 3 or length == 6 or sys.argv[1] =='long' or sys.argv
 	plt.title('x and v vs time (Symplectic)', fontsize=22)
 	plt.legend(['Exact','Symplectic'], loc='best')
 	if sys.argv[1] == 'long':
-		plt.savefig('long_Symplectic_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'long_Symplectic_X0_'+repr(Xi)+'_V0_'+repr(Vi)
 	else:
-		plt.savefig('Symplectic_X0_'+repr(Xi)+'_V0_'+repr(Vi)+'.png',bbox_inches='tight')
+		filename = 'Symplectic_X0_'+repr(Xi)+'_V0_'+repr(Vi)
+	filename = filename.replace('.','_')+'.png'
+	plt.savefig(filename,bbox_inches='tight')
 	#plt.show()
 
