@@ -12,6 +12,10 @@
 \usepackage{comment} % enables the use of multi-line comments (\ifx \fi)  
 \usepackage{fullpage} % changes the margin
 \usepackage{tikz}
+\usepackage[T1]{fontenc}
+\usepackage[danish]{babel}
+\usepackage{mathtools}
+\usepackage{verbatim}
 
 \newcommand{\B}[1]{\boldsymbol{#1}}
 \newcommand{\batmanPic}[1]{
@@ -119,5 +123,11 @@
 \subfloat[$t=100 \pi$]{\includegraphics[width = 3in, height = 2.2in]{long_Symplectic_Energy_X0_1_0_V0_0_0}}\\ 
 \caption{Plots of offset total system energy over time for the symplectic method. This numeric solution oscillates over time, but on average the energy is constant, reflecting how the radius of the circle in phase space is constant around one cycle.}
 \end{figure}
+
+\section{pythoncode}
+\verbatiminput{HW3.py}
+
+\section{Git Log}
+\input{gitlog.txt}
 
 \end{document}

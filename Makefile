@@ -14,4 +14,6 @@ HW3.pdf: HW3.py
 
 	python HW3.py long 2 1
 
+	git log > gitlog.txt
+
 	pdflatex HW3.tex
